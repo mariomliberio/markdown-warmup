@@ -3,7 +3,7 @@
 ## *BeCode La Prairie Group Exercise*
 
 
- - Wich site website ?
+ - Wich website did you chose ?
  
 
  - Is it updated frequently ?
